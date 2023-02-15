@@ -21,4 +21,3 @@ Create a file named auth_session.php and write the code found in auth_session.ph
 
 
 
-
