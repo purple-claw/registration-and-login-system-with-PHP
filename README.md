@@ -14,4 +14,11 @@ Create database with following commands
 After creating the table, we have to create a PHP MySQL connector script to connect to the MySQL database server
 create a file named db.php and save it into new directory, where you have to place all the nesscary files that we will host on our locahost XAMPP.
 
+# Session Create for Logged in User
+
+Next, we have to create a session for the user. 
+Create a file named auth_session.php and write the code found in auth_session.php i given above or simply download the file, and place it in our project folder in Localhost.
+
+
+
 
