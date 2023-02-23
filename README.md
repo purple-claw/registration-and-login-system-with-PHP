@@ -27,9 +27,9 @@ Create a file named auth_session.php and write the code found in auth_session.ph
 
 # Finishing
  start your xammp server and navigate to phpmyadmin to save settings and configure database
- > save all the files in htdocs folder of xammp (for Windows)
- > save all the files in /var/www/html if you are using linux
+  save all the files in htdocs folder of xammp (for Windows)
+  save all the files in /var/www/html if you are using linux
  
- >> Then open the browser and simply Type localhost/files to access the files we saved.
+$ Then open the browser and simply Type localhost/files to access the files we saved.
  
 
